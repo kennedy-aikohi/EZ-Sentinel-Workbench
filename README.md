@@ -49,3 +49,8 @@ dist\EZSentinelWorkbench\EZSentinelWorkbench.exe
 ```
 
 `--onedir` is used instead of `--onefile` because this app has assets, docs, logs, and forensic workflow configuration. It starts faster and is easier to troubleshoot.
+
+## Screenshot
+
+![EZ Sentinel Workbench GUI](assets/sample.png)
+
