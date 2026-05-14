@@ -1,0 +1,8 @@
+{
+  "app_name": "EZ Sentinel Workbench",
+  "version": "6.0",
+  "author": "KENNEDY AIKOHI",
+  "linkedin": "https://www.linkedin.com/in/aikohikennedy/",
+  "default_timeout_seconds": 1800,
+  "default_theme": "Midnight Blue"
+}

@@ -1,0 +1,27 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyInstaller build files
+build/
+*.spec
+
+# Local logs/results
+logs/
+reports/
+output/
+results/
+
+# Temporary files
+*.tmp
+*.log
+
+# Do not commit local EZ Tools binaries
+EZTools/
+*.dll
+*.runtimeconfig.json
+
+# Keep dist out of source control unless you intentionally want it tracked
+dist/
