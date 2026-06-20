@@ -23,5 +23,9 @@ EZTools/
 *.dll
 *.runtimeconfig.json
 
+# Do not commit downloaded Hayabusa archives or local rule backups
+tools/hayabusa/*.zip
+tools/hayabusa/rules_backup*/
+
 # Keep dist out of source control unless you intentionally want it tracked
 dist/
